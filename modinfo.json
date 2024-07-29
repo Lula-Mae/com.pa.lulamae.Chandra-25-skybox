@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lulamae.Chandra-25-skybox",
+  "display_name": "Chandra 25 Skybox by Lula Mae",
+  "description": "System placed in a universe celebrating the 25th anniversary of NASA's Chandra X-ray Observatory.",
+  "author": "Lula Mae",
+  "version": "1.0.0",
+  "build": "120799",
+  "date": "2024-07-29",
+  "signature": "not yet implemented",
+  "forum": "https://forums.planetaryannihilation.com/threads/client-chandra-25-skybox.73609/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/Chandra-25-Skybox-icon.jpg",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.Chandra-25-skybox/settings.js"
+      ]
+  }
+}
